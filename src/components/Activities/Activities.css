@@ -1,0 +1,10 @@
+.activityItem {
+    width: 230px;
+    height: 160px;
+    border-radius: 50%;
+    position: relative;
+    font-size: 14px;
+    color: #14255c;
+    border-width: 2px;
+    border-style: solid;
+}

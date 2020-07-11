@@ -1,0 +1,43 @@
+.arc{
+    width: 600px;
+    height: 600px;
+    border-width: 2px;
+    border-style: solid;
+    border-top-color: transparent;
+    border-bottom-color: transparent;
+    border-right-color: #14255c;
+    border-width: 10px;
+    border-left-color: transparent;
+    border-radius: 50%;
+    position: absolute;
+    left: -512px;
+    bottom: 30px;
+}
+
+.bullet1{
+    width: 30px;
+    height: 30px;
+    background-color: #14255c;
+    border-radius: 50%;
+    left: 62px;
+    top: 253px;
+}
+.bullet1Text{
+    left: 100px;
+    top: 248px;
+    font-size: 24px;
+}
+
+.bullet2{
+    width: 30px;
+    height: 30px;
+    background-color: #14255c;
+    border-radius: 50%;
+    left: 66px;
+    top: 350px;
+}
+.bullet2Text{
+    left: 100px;
+    top: 350px;
+    font-size: 24px;
+}
