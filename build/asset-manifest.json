@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Tactecs/static/css/main.985a936e.chunk.css",
+    "main.js": "/Tactecs/static/js/main.f849a5fa.chunk.js",
+    "main.js.map": "/Tactecs/static/js/main.f849a5fa.chunk.js.map",
+    "runtime-main.js": "/Tactecs/static/js/runtime-main.af7b3fc8.js",
+    "runtime-main.js.map": "/Tactecs/static/js/runtime-main.af7b3fc8.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/Tactecs/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.f8f37e1a.chunk.js": "/Tactecs/static/js/2.f8f37e1a.chunk.js",
+    "static/js/2.f8f37e1a.chunk.js.map": "/Tactecs/static/js/2.f8f37e1a.chunk.js.map",
+    "index.html": "/Tactecs/index.html",
+    "precache-manifest.d6e756a098c765cb1835263bc93412d8.js": "/Tactecs/precache-manifest.d6e756a098c765cb1835263bc93412d8.js",
+    "service-worker.js": "/Tactecs/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/Tactecs/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.985a936e.chunk.css.map": "/Tactecs/static/css/main.985a936e.chunk.css.map",
+    "static/js/2.f8f37e1a.chunk.js.LICENSE.txt": "/Tactecs/static/js/2.f8f37e1a.chunk.js.LICENSE.txt",
+    "static/media/commitment.jpg": "/Tactecs/static/media/commitment.50b13dde.jpg",
+    "static/media/knowledge.jpg": "/Tactecs/static/media/knowledge.fd757fe8.jpg",
+    "static/media/learning.png": "/Tactecs/static/media/learning.b02a05f5.png",
+    "static/media/logo.png": "/Tactecs/static/media/logo.9ebdfb7f.png",
+    "static/media/relationship.jpg": "/Tactecs/static/media/relationship.8b4860ff.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af7b3fc8.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.f8f37e1a.chunk.js",
+    "static/css/main.985a936e.chunk.css",
+    "static/js/main.f849a5fa.chunk.js"
+  ]
+}
